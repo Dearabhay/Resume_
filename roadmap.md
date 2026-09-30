@@ -1,0 +1,3 @@
+- [x] Build responsive portfolio sections and navigation from Saloni's resume.
+- [x] Add real resume access and an honest, validated contact flow.
+- [x] Verify desktop/mobile rendering and interactions.
